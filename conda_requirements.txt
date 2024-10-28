@@ -1,0 +1,43 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_libgcc_mutex=0.1=conda_forge
+_openmp_mutex=4.5=2_gnu
+bcl2fastq=2.19.0=1
+beautifulsoup4=4.12.3=pyha770c72_0
+boost_lib=1.54.0=1
+bs4=4.12.3=hd8ed1ab_0
+bzip2=1.0.8=h4bc722e_7
+ca-certificates=2024.8.30=hbcca054_0
+icu=73.2=h59595ed_0
+ld_impl_linux-64=2.40=hf3520f5_7
+libexpat=2.6.2=h59595ed_0
+libffi=3.4.2=h7f98852_5
+libgcc=14.1.0=h77fa898_1
+libgcc-ng=14.1.0=h69a702a_1
+libgomp=14.1.0=h77fa898_1
+libiconv=1.17=hd590300_2
+libnsl=2.0.1=hd590300_0
+libsqlite=3.46.0=hde9e2c9_0
+libstdcxx-ng=12.2.0=h46fd767_19
+libuuid=2.38.1=h0b41bf4_0
+libxcrypt=4.4.36=hd590300_1
+libxml2=2.12.7=hc051c1a_1
+libxslt=1.1.39=h76b75d6_0
+libzlib=1.2.13=h4ab18f5_6
+lxml=5.2.2=py312hb90d8a5_0
+ncurses=6.5=he02047a_1
+openssl=3.3.2=hb9d3cd8_0
+pip=24.2=pyh8b19718_1
+python=3.12.3=hab00c5b_0_cpython
+python_abi=3.12=5_cp312
+readline=8.2=h8228510_1
+seqkit=2.8.2=h9ee0642_1
+seqtk=1.4=he4a0461_2
+setuptools=73.0.1=pyhd8ed1ab_0
+soupsieve=2.5=pyhd8ed1ab_1
+tk=8.6.13=noxft_h4845f30_101
+tzdata=2024a=h8827d51_1
+wheel=0.44.0=pyhd8ed1ab_0
+xz=5.2.6=h166bdaf_0
+zlib=1.2.13=h4ab18f5_6

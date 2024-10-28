@@ -1,0 +1,5 @@
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1705564648255/work
+lxml @ file:///home/conda/feedstock_root/build_artifacts/lxml_1715598418893/work
+setuptools==73.0.1
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
+wheel==0.44.0
