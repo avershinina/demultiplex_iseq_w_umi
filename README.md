@@ -10,6 +10,6 @@ nextflow run demultiplex_iseq.nf --run_dir ~/path/{<YYYYMMDD>_<Instrument ID>_<R
 ```
 
 # Workflow
-
+![Workflow schematic](https://github.com/avershinina/demultiplex_iseq_w_umi/blob/main/workflow.jpg)
 Author: A. Verhinina
 Date: 28 Oct 2024
